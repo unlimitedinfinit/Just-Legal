@@ -44,6 +44,8 @@ Temporary Items
 .expo-shared
 .vscode
 config/
+/config/
+
 .config
 config/firebase.js
 
