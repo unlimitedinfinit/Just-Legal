@@ -26,7 +26,7 @@ services:
   db:
     image: postgres:13
     environment:
-      POSTGRES_DB: truejust
+      POSTGRES_DB: JustLegal
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: password
     ports:
